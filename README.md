@@ -41,6 +41,17 @@ int main() {
 }
 ```
 
+## Apa yang bisa dilakukan oleh python
+Python merupakan bahasa pemrograman multi guna karena bahasa yang mudah dipahami banyak developer menggunakan bahasa python untuk membuat sofware.
+Diantaranya:
+<ol>
+  <li>GUI (Graphical User Interface) | <a href="https://docs.python.org/3/library/tkinter.html">TKInter</a></li>
+  <li>Web Development menggunakan | <a href="http://www.djangoproject.com/">Django</a> | <a href="http://flask.pocoo.org/">Flask</a></li>
+  <li>Scientific dam Numeric | <a href="http://www.scipy.org/">Scipy</a> | <a href="http://pandas.pydata.org/">Pandas</a></li>
+  <li>Artificial Intelligence | <a href="https://tensorflow.org">Tensorflow</a> | <a href="https://scikit-learn.org">SKLearn</a></li>
+  <li>Software Development | <a href="http://buildbot.net/">Buildbot</a></li>
+</ol>
+
 # Silabus Python
 <ul>
   <li><a href="#kelas-python">Pendahuluan</a></li>
