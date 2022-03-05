@@ -57,8 +57,8 @@ Diantaranya:
   <li><a href="#kelas-python">Pendahuluan</a></li>
   <li><a href="https://github.com/fajhrinazgul/Kelas-Python/blob/main/pembelajaran/Hello%20World.ipynb">Hello World</a></li>
   <li><a href="https://github.com/fajhrinazgul/Kelas-Python/blob/main/pembelajaran/Komentar.ipynb">Komentar</a></li>
-  <li><a href="">Tipe Data</a></li>
   <li><a href="">Variabel</a></li>
+  <li><a href="">Tipe Data</a></li>
   <li><a href="">Number</a></li>
   <li><a href="">String</a></li>
   <li><a href="">List</a></li>
